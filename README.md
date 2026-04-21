@@ -9,10 +9,7 @@
 ### 🖥️ At the PC Bang
 - **Currently**: 피시방 알바중! (Working at a PC Bang)
 
-| 한 장의 사진으로 설명하는 근무 현황 |
-| :---: |
-| <img src="https://i.postimg.cc/mD8Z8yvj/pcbang.jpg" alt="PC Bang Food" width="500"> |
-| *모니터 너머의 풍경, 그리고 군침 도는 음식들...😋* |
+![lin0114-collab's Profile](lin0114-collab_profile.png)
 
 ---
 
