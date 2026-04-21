@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 안녕하세요! 
 
-<!--
-**lin0114-collab/lin0114-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- **소속**: 한신대학교 (Hanshin University)
+- **전공**: AI·SW학부 (AI & Software)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![lin0114-collab's GitHub stats](https://github-readme-stats.vercel.app/api?username=lin0114-collab&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lin0114-collab&layout=compact&theme=transparent)
+
+---
+*Last updated: 2026*
